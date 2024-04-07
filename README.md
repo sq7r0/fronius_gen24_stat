@@ -9,7 +9,9 @@ GEN24 data taken from Solar API differ much from other Fronius inverters, some d
 
 # Requirements
 Python 3 with plugins astral and influxdb
+
 InfluxDB
+
 Grafana
 
 # Installation and script launch
